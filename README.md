@@ -18,3 +18,10 @@ diagnostic and comparative analysis.
 # Acknowledgements
 This work was conducted as an independent research project, and I extend my
 gratitude to the open-source community for providing tools and resources for implementation.
+
+## References
+
+This project builds upon the methodologies presented in the following paper:
+
+- Arvapalli Sai Susmitha and Vinay P. Namboodiri, "Analysis of Transformers for Medical Image Retrieval," *Proceedings of Machine Learning Research*, vol. 211, pp. 1–16, 2024. [Available online](https://openreview.net/forum?id=7w5IHAybj3).
+
